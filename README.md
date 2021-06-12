@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abendevs, actually working for @techteks as a Software Engineer
-- 👀 I’m interested in Web apps development
+- 👀 I’m interested in Web apps development and open source projects
 - 🌱 I’m currently learning Django - Python
-- 💞️ I’m looking to collaborate on open source projects looking for full stack developers
 - 📫 How to reach me abendevs@outlook.com
 - &#127760; My website <a href="https://techteks.net">techteks.net</a>
 
