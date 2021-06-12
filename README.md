@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abendevs
+- 👋 Hi, I’m @abendevs, actually working for @techteks as a Software Engineer
 - 👀 I’m interested in Web apps development
 - 🌱 I’m currently learning Django - Python
 - 💞️ I’m looking to collaborate on open source projects looking for full stack developers
