@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abendevs, actually working as Digital Development Specialist at Millicom (Tigo) in Panama 🇵🇦
+- 👋 Hi, I’m @abendevs, actually working as Head of Digital Experience at Millicom (Tigo) in Panama 🇵🇦
 - 👀 I’m interested in Web apps development and open source projects
 - 🌱 I do frequently deploys to my main project <a href="https://elizaapp.com">elizaapp.com</a>
 - 📫 Reach me at abendevs@outlook.com || info@abendevs.com
